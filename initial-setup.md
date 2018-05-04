@@ -9,4 +9,7 @@
   * set locale (`en_AU.UTF-8 UTF-8`)
   * set timezone
   * set keyboard
-* `sudo install vim-nox git fish python3 python3-pip python3-virtualenv`
+* `sudo apt-get install vim-nox git fish python3 python3-pip python3-virtualenv -y`
+* `curl -L https://get.oh-my.fish | fish`
+* `omf install bobthefish`
+* `set -U theme_color_scheme gruvbox`
